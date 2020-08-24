@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for Entry level job.
 - 💬 Ask me about Kubernetes.
-- 📫 How to reach me: kr-pushpendra@outlook.com
+- 📫 How to reach me: [LinkedIn - @pushpendra-kumar-singh](https://www.linkedin.com/in/pushpendra-kumar-singh/)
+
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I take more breaks.
