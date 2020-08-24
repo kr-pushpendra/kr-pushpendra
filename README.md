@@ -12,4 +12,4 @@
 
 [![Pushpendra's github stats](https://github-readme-stats.vercel.app/api?username=kr-pushpendra)](https://github.com/kr-pushpendra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-pushpendra)](https://github.com/kr-pushpendra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-pushpendra)](https://github.com/kr-pushpendra/github-readme-stats) -->
