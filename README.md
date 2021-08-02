@@ -1,11 +1,8 @@
 ### Hello, I'm Pushpendra Kumar Singh! 👋
 
 
-- 🤔 I’m looking for Entry level job as DevOps Engineer, Virtualization Engineer, Solutions Architect, Cloud Engineer or System Administrator.
-- :books: I've completed Postgraduate Diploma in Cloud Computing for Big Data with 3.8 GPA.
-- 🔭 I’m currently working on CI/CD implementation. 
-- 🌱 I’m currently learning DevOps Tools. 
-- 💬 Ask me about Kubernetes.
+- 🤔 System Administrator 
+- 🌱 I’m currently learning Azure Administration. 
 - 📫 How to reach me: [LinkedIn - @pushpendra-kumar-singh](https://www.linkedin.com/in/kumar-pushpendra/)
 - :page_facing_up: Certifications: AWS Solutions Architect Associate and Certified Kubernetes Application Developer (CKAD).
 
